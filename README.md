@@ -1,4 +1,3 @@
-Currency Converter in C++
 Overview
 This project is a simple command-line based currency converter written in C++. It allows users to convert between two currencies: USD (United States Dollar) and INR (Indian Rupee). The program provides a straightforward interface for users to input values and receive the converted amount based on a predefined exchange rate.
 
